@@ -12,3 +12,5 @@ code 4
 code5(Branch1)
 
 code 6 (forked RampAuto)
+
+code 7( RampAuto Camera feature)
